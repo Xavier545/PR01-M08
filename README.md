@@ -3,8 +3,8 @@
 # CFGS DAW M08
 ## Sobre el proyecto
 
-Este proyecto es mi primera demo en GitHub
-![Logo](images/logo1.jpeg)
+Este proyecto es mi primera demo en GitHub <br>
+![Logo](images/logo1.png)
 
 ## Contribuidores
 De momento nadie
