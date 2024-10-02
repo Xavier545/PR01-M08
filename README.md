@@ -4,6 +4,7 @@
 ## Sobre el proyecto
 
 Este proyecto es mi primera demo en GitHub
+![Logo](images/logo1.jpeg)
 
 ## Contribuidores
 De momento nadie
