@@ -35,3 +35,13 @@ Las listas son muy intuitivas de hacer, para empezar hay 2 tipos de listas, orde
 - Ejemplo2
 - Ejemplo3
 - Ejemplo4
+### Negrita y Cursiva
+Para poner el texto en formato **Negrita**, solo es necesario abrir y cerrar unos dobles asteriscos para que el contenido cambie de formato, y para la _Cursiva_ debes de rodear de barra baja el contenido que quieres formatear, estos 2 formatos se pueden usar al mismo tiempo y solo debes de rodear de dichos caracteres el _**Contenido**_ al mismo tiempo y sin un orden en especifico.
+```
+**Negrita**
+_Cursiva_
+**_Negrita_** y _**Cursiva**_
+```
+**Negrita**
+_Cursiva_
+**_Negrita_** y _**Cursiva**_
