@@ -7,7 +7,7 @@ Este proyecto es mi primera demo en GitHub <br>
 <img src="images/logo1.png" alt="Logo" width="200">
 
 ## Contribuidores
-De momento nadie
+**Xavier-2** **@Xavier-545** 
 ## Contacto
 **Xavier Ramos Cruz** - **xavierramosc3@gmail.com**
 <br>
