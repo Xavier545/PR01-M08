@@ -4,7 +4,7 @@
 ## Sobre el proyecto
 
 Este proyecto es mi primera demo en GitHub <br>
-<img src="" alt="Logo" width="200">
+<img src="logo2" alt="Logo" width="200">
 
 ## Contribuidores
 **Xavier-2** **@Xavier-545** 
