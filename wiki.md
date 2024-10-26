@@ -63,3 +63,15 @@ Para hacer tablas se debe de especificar cada columna rodeandolo con el caracter
 | Fila 2, Col 1 | Fila 2, Col 2 | F2C3 |
 | ------------------Fila 3, Col 1 | -----------Fila 3, Col 2----------- | F3C3-------------------------------------------------------------------------------------------------------------------- |
 
+### Bloques de codigo
+Este elemento sirve para mostrar un en un bloque un contenido en un lenguaje en especifico, hasta ahora en los ejemplo hemos visto bloques de codigo escritos en Markdown pero es posible utilizar otros tipos de bloque para una mejor demostracion en coloreado de sintaxys. La definicion del bloque se basa en una primera linea abriendo con 3 caracteres "`" y el nombre del lenguaje, el contenido que es el codigo y la linea que lo cierra son simplemente otros 3 acentos graves como los que lo abrieron, como ejemplo en este siguiente bloque de SQL.
+```MarkDown
+Esto esta con almohadillas para que Markdown no lo interprete como otro bloque 
+# ```SQL
+# SELECT * FROM Tabla
+# ```
+```
+
+```SQL
+SELECT * FROM Tabla
+```
