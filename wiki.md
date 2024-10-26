@@ -75,3 +75,13 @@ Esto esta con almohadillas para que Markdown no lo interprete como otro bloque
 ```SQL
 SELECT * FROM Tabla
 ```
+### HTML
+Es posible utilizar las etiquetas de HTML dentro de Markdown y estas seran procesadas, esta puede ser una alternativa para las mismas funciones de Markdown.
+```Markdown
+<h1>Este es un titulo h1 en HTML</h1>
+<p>Y este es un parrafo en html y lo siguiente es una linea de separacion de contenido</p>
+<hr>
+```
+<h1>Este es un titulo h1 en HTML</h1>
+<p>Y este es un parrafo en html y lo siguiente es una linea de separacion de contenido</p>
+<hr>
