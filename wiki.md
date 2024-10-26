@@ -49,7 +49,7 @@ _Cursiva_
 **_Negrita_** y _**Cursiva**_
 
 ### Tablas
-Para hacer tablas se debe de especificar cada columna rodeandolo con el caracter "|" y dentro su contenido, para hacer un encabezado simplemente hay que hacer celdas con exclusivamente los caracteres "-", la cantidad de estos caracteres no es influyente en el resultado, tambien es posible modificar la orientacion del texto con el caracter ":" al final o inicio de una celda de declaracion de encabezado, para centrar el texto hay que poner el caracter en ambos lugares.
+Para hacer tablas se debe de especificar cada columna rodeandolo con el caracter "|" y dentro su contenido, para hacer un encabezado simplemente hay que hacer celdas con exclusivamente los caracteres "-", la cantidad de estos caracteres no es influyente en el resultado, tambien es posible modificar la orientacion del texto con el caracter ":" al final o inicio de una celda de declaracion de encabezado, para centrar el texto hay que poner el caracter en ambos lugares, la celda que ocupe mas espacio horizontal en la columna sera el que defina la anchura de toda la columna, si este supera el limite de anchura en el contenedor en el que esta, este aunmentara una linea en por debajo para incluir todo el contenido.
 ```Markdown
 | Encab. 1 | Encab. 2 | Encab. 3 |
 |:---------------|:-----:|----------------------------:|
@@ -61,5 +61,5 @@ Para hacer tablas se debe de especificar cada columna rodeandolo con el caracter
 |:---------------|:-----:|----------------------------:|
 | Fila 1, Col 1 | Fila 1, Col 2 | F1C3 |
 | Fila 2, Col 1 | Fila 2, Col 2 | F2C3 |
-| ------------------Fila 3, Col 1 | -----------Fila 3, Col 2----------- | F3C3------------------ |
+| ------------------Fila 3, Col 1 | -----------Fila 3, Col 2----------- | F3C3-------------------------------------------------------------------------------------------------------------------- |
 
