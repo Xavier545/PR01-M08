@@ -47,3 +47,19 @@ _Cursiva_
 _Cursiva_
 
 **_Negrita_** y _**Cursiva**_
+
+### Tablas
+Para hacer tablas se debe de especificar cada columna rodeandolo con el caracter "|" 
+```Markdown
+| Encab. 1 | Encab. 2 | Encab. 3 |
+|:---------------|:-----:|----------------------------:|
+| Fila 1, Col 1 | Fila 1, Col 2 | F1C3 |
+| Fila 2, Col 1 | Fila 2, Col 2 | F2C3 |
+| ------------------Fila 3, Col 1 | -----------Fila 3, Col 2----------- | F3C3------------------ |
+```
+| Encab. 1 | Encab. 2 | Encab. 3 |
+|:---------------|:-----:|----------------------------:|
+| Fila 1, Col 1 | Fila 1, Col 2 | F1C3 |
+| Fila 2, Col 1 | Fila 2, Col 2 | F2C3 |
+| ------------------Fila 3, Col 1 | -----------Fila 3, Col 2----------- | F3C3------------------ |
+
